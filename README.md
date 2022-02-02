@@ -34,4 +34,4 @@ I am Erdi, currently, working as a fullstack developer. I like to learn new tech
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erdkse&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=erdkse.erdkse)
-![](https://hit.yhype.me/github/profile?user_id=2957624)
+![](https://hit.yhype.me/github/profile?user_id=50548624)
